@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+body {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+.menubar {
+	background-color: #00EE76 !important;
+}
+
+.menuitem span {
+	color: #000000 !important;
+}
+
+.menuitem:hover {
+	background-color: #FFFFFF !important;
+}
+
+
+
+
