@@ -6,11 +6,10 @@ body {
 }
 
 .menubar-conta {
+	padding: 0 !important;
 	background-color: #00FF7F !important;
 	border-radius: 0 !important;
 	border: 0 !important;
-	padding: 0 !important;
-	margin: 0 !important;
 }
 
 .menuitem-conta span {
